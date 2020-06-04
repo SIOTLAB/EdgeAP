@@ -49,7 +49,7 @@ Note: Must install opencv2 first. Also, install prerequisites: `pip3 install -r 
 
 The client (Raspberry Pi) will capture the video and send it to the server (AP) for processing. Currently using the [imagezmq](https://github.com/jeffbass/imagezmq) library for transporting OpenCV images. The server running on the AP is deployed as a Docker container.
 
-## Build image
+## Build Image
 
 ```
 source ./twilio.env
