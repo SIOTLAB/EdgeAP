@@ -42,7 +42,7 @@ Note: Must install opencv2 first. Also, install prerequisites: `pip3 install -r 
 3. Recognize faces locally\
 `python3 faceRecognition.py`
 
-4. Recognize faces localy and test text notifications\
+4. Recognize faces locally and test text notifications\
 `python3 faceRecognition_notifications.py`
 
 ## Integration with EdgeAP
