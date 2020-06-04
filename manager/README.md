@@ -3,7 +3,7 @@
 ## Overview
 
 The management server is responsible for overseeing applications running on wireless access points.
-More specifically, it must receive & process application requests, start-up the application on the appropriate access point, and manage the lifecycle of the application.
+More specifically, it must receive & process application requests, start-up the application on the appropriate access point, and manage the life cycle of the application.
 
 ## Secure Docker Daemon Socket
 
